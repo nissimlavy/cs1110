@@ -1,0 +1,40 @@
+Flight Num	Bookings
+0		        0
+1		        0
+2		        0
+3		        0
+4		        0
+5		        0
+6		        0
+7		        0
+8		        0
+9		        0
+
+Added 10 to flight number 3
+Added 20 to flight number 6
+Added 50 to flight number 5
+Added 20 to flight number 2
+Removed 5 from flight number 6
+Added 100 to flight number 8
+Added 20 to flight number 5
+Error, Trying to cancel more seats than possible(30 seats) from flight3. Request rejected.
+Added 40 to flight number 9
+Added 100 to flight number 3
+Removed 30 from flight number 3
+
+Flight Num	Bookings
+0		        0
+1		        0
+2		        20
+3		        80
+4		        0
+5		        70
+6		        15
+7	        	0
+8		        100
+9		        40
+
+the number of flights that have no bookings is: 4
+the total value of all ticket sales for the day is: 39000
+
+Program Finished
