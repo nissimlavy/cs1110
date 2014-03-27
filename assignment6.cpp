@@ -1,3 +1,8 @@
+/**************************************/
+/* Nissim Lavy		Assignemnt 6  */
+/* CIS 1110		3/27/14	      */
+/**************************************/
+
 #include <iostream>
 #include <fstream>
 
@@ -25,7 +30,7 @@ int main() {
    
     printBookings(bookings, numFlights);
    
-	for (int i = 0; i <= 10; i++){
+	while (file){
         file >> txnType >> flightNum >> numOfSeats;
        
         if (txnType == 1){
