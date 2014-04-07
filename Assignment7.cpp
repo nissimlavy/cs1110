@@ -1,3 +1,9 @@
+/***************************************/
+/* Nissim Lavy          Assignment 7   */
+/* CIS 1110             4/7/14         */
+/***************************************/
+
+
 #include <iostream>
 #include <fstream>
 #include <iomanip>
