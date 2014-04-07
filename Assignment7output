@@ -1,0 +1,40 @@
+NUM FLIGHTNUM  BOOKINGS
+0       511         0
+1       358         0
+2       302         0
+3       412         0
+4       208         0
+5       673         0
+6       157         0
+7       129         0
+8       266         0
+9       409         0
+200 seats booked on flight 157
+150 seats were not cancelled from flight 302 (excess of seats booked)
+300 seats booked on flight 673
+Invalid flight number
+100 seats booked on flight 358
+Invalid transaction type
+400 seats were not cancelled from flight 358 (excess of seats booked)
+10 seats cancelled from flight 673
+Invalid transaction type
+40 seats booked on flight 266
+Invalid transaction type
+75 seats booked on flight 673
+500 seats booked on flight 358
+Invalid transaction type
+400 seats were not cancelled from flight 157 (excess of seats booked)
+300 seats booked on flight 409
+200 seats cancelled from flight 358
+NUM FLIGHTNUM  BOOKINGS
+0       511         0
+1       358       400
+2       302         0
+3       412         0
+4       208         0
+5       673       365
+6       157       200
+7       129         0
+8       266        40
+9       409       300
+Program Finished
